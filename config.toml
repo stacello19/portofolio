@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://stacello19.github.io/"
 languageCode = "en-us"
 title = "Stacy's Portofolio"
 theme = "hugo-swift-theme"
+publishDir = "stacello19.github.io"
